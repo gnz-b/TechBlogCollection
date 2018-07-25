@@ -7,3 +7,6 @@
 
 ## 网络安全
 + [x] [CSRF 攻击的应对之道](https://www.ibm.com/developerworks/cn/web/1102_niugang_csrf/index.html)
+
+## webpack
++ [ ] [webpack 源码解析](https://lihuanghe.github.io/2016/05/30/webpack-event.html)
